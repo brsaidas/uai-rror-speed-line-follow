@@ -12,6 +12,6 @@ Em geral, robôs seguidores de linha utilizam controle PID e umas das melhores t
 </div>
 
 ## 📁 uairror-speed-line-follow-test
-Dentro dessa pasta temos o código fonte do arduino, com a finalidade de testar o app.
+Dentro dessa pasta temos o código fonte do arduino, com a finalidade de testar o app. Esse código recebe dados enviados pelo App através do Módulo HC-05. Tais dados são separados em blocos para melhor comunicação. Uma vez que os dados são recebidos e separados, os respectivos parâmetros são alterados em tempo de execução. Parece mágica 🤣 mas é apenas o Socket trabalhando.
 
 <img src="img/img1.jpg"/>
