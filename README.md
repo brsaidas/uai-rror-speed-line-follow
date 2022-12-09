@@ -16,7 +16,7 @@ Dentro dessa pasta temos o código fonte do arduino, com a finalidade de testar 
 
 <img src="img/img1.jpg"/>
 
-## Explicando os Parametros
+## ❔ Explicando os Parametros
 Quando falamos em comunicação quando menos bytes enviamos melhor, então para isso criamos uma tabela de códigos apenas uma letra vai ditar o parâmetro que deve ser alterado no momento. Parece complicado? 🤔 Mas olha a imagem abaixo.
 
-<img src="img/img4.jpg"/>
+<img align="center" src="img/img4.jpg"/>
