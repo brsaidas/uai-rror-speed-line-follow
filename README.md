@@ -47,4 +47,10 @@ Temos 4 botões, cada um com sua funcionalidade. A lâmpada tem a função de li
   <img width="300" src="img/img6.jpg"/>
 </div>
 ✔ Em seguida você deve entrar no App e permitir o bluetooth<br>
+<div align="center">
+  <img height="300" src="img/instalar/img5.jpg"/>
+</div>
 ✔ Depois você pode utilizar as barras de rolagem horizontal ou os campos de textos para enviar seus dados (as barras horizontais fazem envio dos dados automaticamente, já nos campos de texto você deve clicar no botão do avião de papel para enviar)<br>
+<div align="center">
+  <img height="300" src="img/instalar/img6.jpg"/>
+</div>
