@@ -36,7 +36,15 @@ Temos 4 botões, cada um com sua funcionalidade. A lâmpada tem a função de li
 
 ## 😉 Como usar o App
 ✔ Inicialmente baixe o arquivo <b>uairror-speed-line-follow.apk</b> e instale no seu dispositivo Android<br>
-<img src="img/img6.jpg"/>
+<div align="center">
+  <img width="300" src="img/instalar/img1.jpg"/>
+  <img width="300" src="img/instalar/img2.jpg"/>
+  <img width="300" src="img/instalar/img3.jpg"/>
+  <img width="300" src="img/instalar/img4.jpg"/>
+</div>
 ✔ Daí vocês deve parear o seu módulo HC-05 com o aparelho celular<br>
+<div align="center">
+  <img width="300" src="img/img6.jpg"/>
+</div>
 ✔ Em seguida você deve entrar no App e permitir o bluetooth<br>
 ✔ Depois você pode utilizar as barras de rolagem horizontal ou os campos de textos para enviar seus dados (as barras horizontais fazem envio dos dados automaticamente, já nos campos de texto você deve clicar no botão do avião de papel para enviar)<br>
