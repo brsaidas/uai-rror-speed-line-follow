@@ -16,7 +16,7 @@ Dentro dessa pasta temos o código fonte do arduino, com a finalidade de testar 
 
 <img src="img/img1.jpg"/>
 
-## ❔ Explicando os Parametros
+## ❔ Explicando os Parâmetros
 <p align="justify">
 Quando falamos em comunicação quando menos bytes enviamos melhor, então para isso criamos uma tabela de códigos apenas uma letra vai ditar o parâmetro que deve ser alterado no momento. Parece complicado? 🤔 Mas olha a imagem abaixo. Podemos ver que cada valor que pode ser alterado tem um letra correspondente, e no final a mensagem será enviada com um caractere para sinalizar o início da mensagem ( no caso o <b>{</b> ) um letra que representa um parâmetro junto ao novo valor que deve ser atribuído a esse tal parâmetro e por fim um caractere para simbolizar o final da mensagem ( no caso o <b>}</b> ) 
 </p>
