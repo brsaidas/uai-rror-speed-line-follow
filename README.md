@@ -11,6 +11,27 @@ Em geral, robôs seguidores de linha utilizam controle PID e umas das melhores t
   <img width="300" src="img/img3.jpg"/>
 </div>
 
+## 😉 Como usar o App
+✔ Inicialmente baixe o arquivo <b>uairror-speed-line-follow.apk</b> e instale no seu dispositivo Android<br>
+<div align="center">
+  <img width="300" src="img/instalar/img1.jpg"/>
+  <img width="300" src="img/instalar/img2.jpg"/>
+  <img width="300" src="img/instalar/img3.jpg"/>
+  <img width="300" src="img/instalar/img4.jpg"/>
+</div>
+✔ Daí vocês deve parear o seu módulo HC-05 com o aparelho celular<br>
+<div align="center">
+  <img width="300" src="img/img6.jpg"/>
+</div>
+✔ Em seguida você deve entrar no App e permitir o bluetooth<br>
+<div align="center">
+  <img height="300" src="img/instalar/img5.jpg"/>
+</div>
+✔ Depois você pode utilizar as barras de rolagem horizontal ou os campos de textos para enviar seus dados (as barras horizontais fazem envio dos dados automaticamente, já nos campos de texto você deve clicar no botão do avião de papel para enviar)<br>
+<div align="center">
+  <img height="300" src="img/instalar/img6.jpg"/>
+</div>
+
 ## 📁 uairror-speed-line-follow-test
 Dentro dessa pasta temos o código fonte do arduino, com a finalidade de testar o app. Esse código recebe dados enviados pelo App através do Módulo HC-05. Tais dados são separados em blocos para melhor comunicação. Uma vez que os dados são recebidos e separados, os respectivos parâmetros são alterados em tempo de execução. Parece mágica 🤣 mas é apenas o Socket trabalhando.
 
@@ -34,23 +55,6 @@ Temos 4 botões, cada um com sua funcionalidade. A lâmpada tem a função de li
   <img src="img/img5.jpg"/>
 </div>
 
-## 😉 Como usar o App
-✔ Inicialmente baixe o arquivo <b>uairror-speed-line-follow.apk</b> e instale no seu dispositivo Android<br>
-<div align="center">
-  <img width="300" src="img/instalar/img1.jpg"/>
-  <img width="300" src="img/instalar/img2.jpg"/>
-  <img width="300" src="img/instalar/img3.jpg"/>
-  <img width="300" src="img/instalar/img4.jpg"/>
-</div>
-✔ Daí vocês deve parear o seu módulo HC-05 com o aparelho celular<br>
-<div align="center">
-  <img width="300" src="img/img6.jpg"/>
-</div>
-✔ Em seguida você deve entrar no App e permitir o bluetooth<br>
-<div align="center">
-  <img height="300" src="img/instalar/img5.jpg"/>
-</div>
-✔ Depois você pode utilizar as barras de rolagem horizontal ou os campos de textos para enviar seus dados (as barras horizontais fazem envio dos dados automaticamente, já nos campos de texto você deve clicar no botão do avião de papel para enviar)<br>
-<div align="center">
-  <img height="300" src="img/instalar/img6.jpg"/>
-</div>
+## 📁 project
+Nessa pasta temos os códigos fontes da aplicação feita em Java no Android Studio IDE assim com um <b>.zip</b> com o projeto de fato.
+
