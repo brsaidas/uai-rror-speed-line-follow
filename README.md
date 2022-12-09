@@ -24,3 +24,12 @@ Quando falamos em comunicação quando menos bytes enviamos melhor, então para 
 <div align="center">
   <img src="img/img4.jpg"/>
 </div>
+
+## ❓ Explicando os Botões
+<p align="justify">
+Temos 4 botões, cada um com sua funcionalidade. A lâmpada tem a função de ligar e desligar o robô. O bluetooth tem a função de conectar ou desconectar o App com o Módulo bluetooth ( cabe dizer que o módulo bluetooth tem que estar pareado para poder ser conectado ). O avião de papel tem a função de enviar os 4 parâmetros que estão na forma de Caixa de Texto (CACE, CDES, VMAX, VMIN). Por fim o botão de atualizar que muda todos os parâmetros dos App para os parâmetros que existem no robô ( então ele envia uma solicitação para o robô enviar os dados que estão nele atualmente, recomendo utilizar logo após conectar com o robô )
+</p>
+
+<div align="center">
+  <img src="img/img5.jpg"/>
+</div>
