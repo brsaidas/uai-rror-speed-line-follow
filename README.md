@@ -1,5 +1,5 @@
 <h1 align="center">🤖 Uai!rror Speed Line Follow 🔥</h1>
-<p align="center">Aplicativo Android desenvolvido para a equipe de robótica uai!rror para telemetria de robôs seguidores de linha.</p>
+<p align="center">Aplicativo Android desenvolvido para a equipe de robótica Uai!rror para telemetria de robôs seguidores de linha.</p>
 
 ## 📋 Sobre
 <p align="justify">
