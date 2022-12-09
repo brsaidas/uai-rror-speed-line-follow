@@ -37,15 +37,6 @@ Dentro dessa pasta temos o código fonte do arduino, com a finalidade de testar 
 
 <img src="img/img1.jpg"/>
 
-## ❔ Explicando os Parâmetros
-<p align="justify">
-Quando falamos em comunicação quando menos bytes enviamos melhor, então para isso criamos uma tabela de códigos apenas uma letra vai ditar o parâmetro que deve ser alterado no momento. Parece complicado? 🤔 Mas olha a imagem abaixo. Podemos ver que cada valor que pode ser alterado tem um letra correspondente, e no final a mensagem será enviada com um caractere para sinalizar o início da mensagem ( no caso o <b>{</b> ) um letra que representa um parâmetro junto ao novo valor que deve ser atribuído a esse tal parâmetro e por fim um caractere para simbolizar o final da mensagem ( no caso o <b>}</b> ) 
-</p>
-
-<div align="center">
-  <img src="img/img4.jpg"/>
-</div>
-
 ## ❓ Explicando os Botões
 <p align="justify">
 Temos 4 botões, cada um com sua funcionalidade. A lâmpada tem a função de ligar e desligar o robô. O bluetooth tem a função de conectar ou desconectar o App com o Módulo bluetooth ( cabe dizer que o módulo bluetooth tem que estar pareado para poder ser conectado ). O avião de papel tem a função de enviar os 4 parâmetros que estão na forma de Caixa de Texto (CACE, CDES, VMAX, VMIN). Por fim o botão de atualizar que muda todos os parâmetros dos App para os parâmetros que existem no robô ( então ele envia uma solicitação para o robô enviar os dados que estão nele atualmente, recomendo utilizar logo após conectar com o robô )
@@ -53,6 +44,15 @@ Temos 4 botões, cada um com sua funcionalidade. A lâmpada tem a função de li
 
 <div align="center">
   <img src="img/img5.jpg"/>
+</div>
+
+## ❔ Explicando os Parâmetros
+<p align="justify">
+Quando falamos em comunicação quando menos bytes enviamos melhor, então para isso criamos uma tabela de códigos apenas uma letra vai ditar o parâmetro que deve ser alterado no momento. Parece complicado? 🤔 Mas olha a imagem abaixo. Podemos ver que cada valor que pode ser alterado tem um letra correspondente, e no final a mensagem será enviada com um caractere para sinalizar o início da mensagem ( no caso o <b>{</b> ) um letra que representa um parâmetro junto ao novo valor que deve ser atribuído a esse tal parâmetro e por fim um caractere para simbolizar o final da mensagem ( no caso o <b>}</b> ) 
+</p>
+
+<div align="center">
+  <img src="img/img4.jpg"/>
 </div>
 
 ## 📁 project
