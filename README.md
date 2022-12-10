@@ -63,7 +63,7 @@ Nessa pasta temos os códigos fontes da aplicação feita em Java no Android Stu
 2) <b>MainActivity:</b> <i>Classe principal, contém tudo relativo ao fluxo da aplicação, método para botões, eventos para SeekBar, etc.</i><br>
 3) <b>Mensagem:</b> <i>Classe auxiliar para tratar os envios de mensagem para o usuário, como Toast e AlertDialog.</i><br>
 4) <b>ThreadConexao:</b> <i>Classe que trata da criação e conexão da Thread que roda paralelamente ao fluxo da aplicação principal. Trata o envio e o recebimento de mensagem.</i><br>
-5) <b>activity_main.xml:</b> Código XML do front-end da aplicação, nele estão todas as informações sobre os componente da parte visual da tela do App<br>
+5) <b>activity_main.xml:</b> <i>Código XML do front-end da aplicação, nele estão todas as informações sobre os componente da parte visual da tela do App</i><br>
 
 
 
