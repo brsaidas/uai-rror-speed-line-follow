@@ -59,4 +59,9 @@ Quando falamos em comunicação quando menos bytes enviamos melhor, então para 
 
 ## 📁 project
 Nessa pasta temos os códigos fontes da aplicação feita em Java no Android Studio IDE assim com um <b>.zip</b> com o projeto de fato.
+1) <b>ListaDispositivos:</b> <i>Classe que cuida da obtenção dos dispositivos pareados e cria uma lista com esse dispositivo para ser selecionada pelo usuário.</i><br>
+2) <b>MainActivity:</b> <i>Classe principal, contém tudo relativo ao fluxo da aplicação, método para botões, eventos para SeekBar, etc.</i><br>
+3) <b>Mensagem:</b> <i>Classe auxiliar para tratar os envios de mensagem para o usuário, como Toast e AlertDialog.</i><br>
+4) <b>ThreadConexao:</b> <i>Classe que trata da criação e conexão da Thread que roda paralelamente ao fluxo da aplicação principal. Trato o envio e o recebimento de mensagem.</i><br>
+
 
