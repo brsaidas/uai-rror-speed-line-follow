@@ -2,7 +2,7 @@
 <p align="center">Aplicativo Android desenvolvido para a equipe de robótica Uai!rror para telemetria de robôs seguidores de linha.</p>
 
 <div align="center">
-  <img width="300" src="img/img1.jpg"/>
+  <img width="300" src="img/img7.jpg"/>
 </div>
 
 ## 📋 Sobre
