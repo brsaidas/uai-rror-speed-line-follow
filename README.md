@@ -11,8 +11,8 @@ Em geral, robôs seguidores de linha utilizam controle PID e umas das melhores t
 </p>
 
 <div align="center">
-  <img width="300" src="img/img2.jpg"/>
-  <img width="300" src="img/img3.jpg"/>
+  <img height="300" src="img/img2.jpg"/>
+  <img height="300" src="img/img3.jpg"/>
 </div>
 
 ## 😉 Como usar o App
